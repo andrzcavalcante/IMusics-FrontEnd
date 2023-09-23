@@ -3,7 +3,8 @@
 ## Intrudoção
 
 Neste repositório está a estrutura do FrontEnd da aplicação *IMusics*. A proposta da aplicação é adicionar, armazenar e reproduzir suas músicas preferidas
-sempre presando os pilares da segurança da informação: confidencialidade, integridade e disponibilidade.
+sempre presando os pilares da segurança da informação: confidencialidade, integridade e disponibilidade. As principais tecnologias usadas foram: TypeScript,
+Next.js e Tailwindcss.
 
 ## Passos para rodar a aplicaçâo
 - Crie o clone do repositório na sua máquina.
