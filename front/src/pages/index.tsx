@@ -4,7 +4,6 @@ import { MusicData } from "@/schemas/music.schema";
 import api from "@/services/api";
 import { GetServerSideProps, NextPage } from "next";
 import Link from "next/link";
-import { useRouter } from "next/router";
 import { useEffect } from "react";
 
 interface HomeProps {
