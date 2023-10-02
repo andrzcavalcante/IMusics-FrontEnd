@@ -96,7 +96,6 @@ const UploadImageForm = () => {
               className="user-form-button w-72 my-8"
               onClick={(e) => {
                 e.preventDefault();
-                console.log(musicInfo, music, coverImage);
                 createMusic();
               }}>
               Finalizar Cadastro
